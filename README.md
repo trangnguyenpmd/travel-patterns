@@ -7,3 +7,7 @@
 ### Affiliation:
 ### (1) Data Science Institute, I-BioStat, Hasselt University, BE-3500 Hasselt, Belgium
 ### (2) Centre for Health Economic Research and Modelling Infectious Diseases, Vaccine and Infectious Disease Institute, University of Antwerp, BE-2000 Antwerpen, Belgium
+
+
+**For data and resulting model fit, please visit:**
+https://drive.google.com/drive/folders/1jOllv_WUkuHcmm1C2sSCH83C7ZV5-clv?usp=sharing
