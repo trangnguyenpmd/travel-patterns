@@ -10,4 +10,4 @@
 
 
 **For data and resulting model fit, please visit:**
-https://drive.google.com/drive/folders/1jOllv_WUkuHcmm1C2sSCH83C7ZV5-clv?usp=sharing
+https://zenodo.org/records/15548026
